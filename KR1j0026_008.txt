@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 汗簡
-#+DATE: 2015-09-23 09:41:12
+#+DATE: 2015-09-11 23:42:49.270326
+#+PROPERTY: ID KR1j0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB05n0587-008汗簡-後序.
 <pb:KR1j0026_SBCK_008-1a>¶
 (後序/汗簡郭宗正忠恕集成之後儒家罕有得者余訪之久矣)¶
 (近聞祕閣新本乃集賢李公衎修/公素居外任藳草秘/於巾箱中大中祥符四秊罷西京㽞䑓歸&KR0453;果以此書)¶
@@ -71,4 +75,3 @@
 己巳冬至後二日&KR0167;公内識¶
 <pb:KR1j0026_SBCK_008-5a>¶
 <pb:KR1j0026_SBCK_008-6a>¶
-

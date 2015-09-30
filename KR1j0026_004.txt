@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 汗簡
-#+DATE: 2015-09-23 09:41:12
+#+DATE: 2015-09-11 23:42:49.107215
+#+PROPERTY: ID KR1j0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB05n0587-004汗簡-卷上四.
 <pb:KR1j0026_SBCK_004-1a>¶
 汗簡卷中之二苐四¶
 　　　　　　　　　　方　凡方之属皆从方¶
@@ -210,4 +214,3 @@
 ¶
 汗簡卷中之二苐四¶
 <pb:KR1j0026_SBCK_004-14b>¶
-

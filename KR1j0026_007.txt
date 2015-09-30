@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 汗簡
-#+DATE: 2015-09-23 09:41:12
+#+DATE: 2015-09-11 23:42:49.227537
+#+PROPERTY: ID KR1j0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB05n0587-007汗簡-卷上七.
 <pb:KR1j0026_SBCK_007-1a>¶
 汗簡卷第七　略叙目錄¶
 (易曰上古/結䋲/而治/後世聖人/易/之以/書/契百/官/以理/萬民以察○許氏説文序云黃帝之史蒼頡史亦云史臣蒼頡沮頌見鳥獸蹏)¶
@@ -174,4 +178,3 @@
 (庚/辛/辡/壬/癸)¶
 <pb:KR1j0026_SBCK_007-10b>¶
 <pb:KR1j0026_SBCK_007-10b>¶
-

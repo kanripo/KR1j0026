@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 汗簡
-#+DATE: 2015-09-23 09:41:12
+#+DATE: 2015-09-11 23:42:49.184655
+#+PROPERTY: ID KR1j0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB05n0587-006汗簡-卷上六.
 <pb:KR1j0026_SBCK_006-1a>¶
 汗簡卷下之二苐六¶
 　　　　　　　　　　　　率　凡率之属皆从率¶
@@ -188,4 +192,3 @@
 (運/逮/並/碧落文/作荆/山文/其)¶
 (色/徴並王/庶子碑)¶
 汗簡卷下之二第六¶
-

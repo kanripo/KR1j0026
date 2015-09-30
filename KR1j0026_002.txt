@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 汗簡
-#+DATE: 2015-09-23 09:41:12
+#+DATE: 2015-09-11 23:42:49.021935
+#+PROPERTY: ID KR1j0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB05n0587-002汗簡-卷上二.
 <pb:KR1j0026_SBCK_002-1a>¶
 　汗簡卷上　之二　第　二¶
 　　　　　　　　　　　　&KR2138;　凡&KR2138;之属皆从&KR2138;¶
@@ -215,4 +219,3 @@
 <pb:KR1j0026_SBCK_002-15b>¶
 　　　　　　兮　凡&KR0006;之属皆从&KR0006;¶
 汗簡卷上之二第二¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 汗簡
-#+DATE: 2015-09-23 09:41:12
+#+DATE: 2015-09-11 23:42:49.065704
+#+PROPERTY: ID KR1j0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB05n0587-003汗簡-卷上三.
 <pb:KR1j0026_SBCK_003-1a>¶
 汗簡卷中之一苐三¶
 　　　　木凡木之属皆从木¶
@@ -236,4 +240,3 @@
 ¶
 汗簡卷中之一苐三¶
 <pb:KR1j0026_SBCK_003-16a>¶
-
